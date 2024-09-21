@@ -12,5 +12,5 @@ Update the logo image in the images folder.
 Modify the text content in the HTML file to match your project requirements.
 Add your own images to the gallery section.
 
-Customization
+#Customization
 You can customize the styles by editing the style.css file. Change colors, fonts, and layouts to fit your branding.
