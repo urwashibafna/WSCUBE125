@@ -1,6 +1,7 @@
 **One Page Website Template**
 
-This is a simple one-page website template designed for web development purposes. It features sections like Introduction, Our Work, and Contact Us, using a clean layout with a modern design.
+This is a simple one-page website template designed for web development purposes.
+It features sections like Introduction, Our Work, and Contact Us, using a clean layout with a modern design.
 
 **Features**
 
@@ -17,4 +18,5 @@ Add your own images to the gallery section.
 
 **Customization**
 
-You can customize the styles by editing the style.css file. Change colors, fonts, and layouts to fit your branding.
+You can customize the styles by editing the style.css file.
+Change colors, fonts, and layouts to fit your branding.
