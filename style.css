@@ -1,0 +1,248 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	list-style: none;
+	text-decoration: none;
+}
+html{
+	scroll-behavior: smooth;
+}
+.header{
+	width: 100%;
+	position: sticky;
+	top: 0px;
+	box-shadow: 0px 5px 10px grey;
+
+}
+.header-inner{
+	width: 1382px;
+	margin: auto;
+	border: 0px solid black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 0px solid red;
+	box-shadow: 0px 5px 10px grey;
+	position: fixed;
+	background-color: white;
+}
+.logo{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.menu{
+	display: flex;
+	padding-right: 294px;
+	
+}
+.menu ul{
+	display: flex;
+	gap: 30px;
+}
+.menu ul li a{
+	color: black;
+	font-weight: bold;
+	
+}
+.menu a:hover{
+	color: brown;
+}
+.image{
+	width: 100%;
+	height: 100%;
+	background: url("images/the-town-bg-01.jpg")center fixed;
+	display: flex;
+	background-size: cover;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	gap: 30px;
+}
+.image h1{
+/*	text-align: center;*/
+	color: white;
+	transition-duration: 2s;
+/*	transform: rotate(360deg);*/
+
+}
+.image i{
+	color: white;
+	font-size: 40px;
+	cursor: pointer;
+	transition-duration: 2s;
+	opacity: 1;
+}
+.image i:hover{
+	color: skyblue;
+	font-size: 100px;
+	opacity: 0;
+	transition-duration: 2s;
+}
+.main{
+	padding: 80px 0px;
+	width: 100%;
+}
+.inner{
+	width: 1063px;
+	margin: auto;
+	display: flex;
+
+}
+.photo{
+	flex-basis: 70%;
+	
+
+
+}
+.contect{
+	flex-basis: 45%;
+
+}
+.contect h2{
+	font-size: 60px;
+	color: skyblue;
+}
+.contect p{
+	line-height: 25px;
+	padding-top: 10px;
+	color: grey;
+}
+.contect button{
+	border-radius: 20px;
+	padding:  15px 25px;
+	background-color: #3496d8;
+	color: white;
+	border: none;
+	margin-top: 20px;
+	transition-duration: 2s;
+}
+.contect button:hover{
+	background-color: pink;
+	font-size: 40px;
+}
+.part1{
+	display: flex;
+	padding-top: 50px;
+	padding-left: 20px;
+	gap: 20px;
+	justify-content: space-between;
+
+
+
+
+}
+.part1 h3{
+	color: skyblue;
+	font-family: sans-serif;
+	font-size: 25px;
+	padding-top: 20px;
+	padding-left: 52px;
+}
+.part1 i{
+	color: skyblue;
+	font-size: 60px;
+	padding-left: 172px;
+
+
+}
+
+ .part1 .p1 p{
+	text-align: center;
+	color: grey;
+	font-size: 20px;
+	padding-left: 25px;
+	
+
+}
+
+.part1 .p2 p{
+	text-align: center;
+	color: grey;
+	font-size: 20px;
+	
+}
+.part1 .p3 p{
+	text-align: center;
+	color: grey;
+	font-size: 20px;
+}
+.our-work{
+	width: 100%;
+	padding: 2px 0px;
+}
+.our-work h4:hover{
+	color:hotpink ;
+	transition-duration: 5s;
+	transform: scale(-1);
+}
+
+
+.our-work h4{
+	font-size: 40px;
+	text-align: center;
+	color:blueviolet;
+	margin-bottom: 20px;
+}
+.our-work p{
+	font-size: 20px;
+	color: grey;
+	text-align: center;
+/*	padding-top: 20px;*/
+
+}
+.our-work-photo{
+/*	width: 1100%;*/
+/*	margin: auto;*/
+	display: flex;
+	gap: 50px;
+	padding-left: 85px;
+	margin-bottom: 70px;
+
+
+}
+.small-pic img{
+	height: 230px;
+	padding-top: 50px;
+	
+}
+.small-pic img :hover{
+	color: blue;
+	
+}
+
+.bottom{
+	width: 100%;
+	height: 500px;
+	margin-top: 40px;
+	background-image: url("images/the-town-bg-02 (1).jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+
+}
+.bottom-a{
+	padding-top: 50px;
+}
+.bottom-a h3{
+	font-size: 30px;
+	padding-left: 25px;
+
+}
+.image h1:hover{
+	font-size: 60px;
+	color: purple;
+	transition: 2s;
+}
+.line{
+	width: 40px;
+	padding: 5px 0px;
+	color: red;
+}
+
+
+
+	
+	
