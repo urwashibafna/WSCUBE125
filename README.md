@@ -5,14 +5,14 @@ It features sections like Introduction, Our Work, and Contact Us, using a clean 
 
 **Features**
 
-Responsive Design: Built using Bootstrap v4.1.3 for a mobile-friendly experience.
-Font Awesome Icons: Utilizes Font Awesome for icons throughout the template.
-Parallax Layout: Includes a parallax scrolling effect for a dynamic user experience.
-Customizable Sections: Easy to modify and expand with your own content.
+Responsive Design: Built using Bootstrap v4.1.3 for a mobile-friendly experience.< br / >
+Font Awesome Icons: Utilizes Font Awesome for icons throughout the template.< br / >
+Parallax Layout: Includes a parallax scrolling effect for a dynamic user experience.< br / >
+Customizable Sections: Easy to modify and expand with your own content.< br / >
 
 **Usage**
 
-Update the logo image in the images folder.
+Update the logo image in the images folder.< br / >
 Modify the text content in the HTML file to match your project requirements.
 Add your own images to the gallery section.
 
